@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Laravel 9 & React js - Ecommerce application
 
 ## Screenshots
@@ -40,3 +41,6 @@ Go to the project directory
 
 -   email = admin@example.com
 -   password = 123
+=======
+# ProjectNhom1
+>>>>>>> ee5837e3e3c9bfd8fa715b70b64efbf289f75c4e
